@@ -1,3 +1,10 @@
+# Reference
+This is @Sam Storie's great tutorial on using signalR with Angular2.
+I've implemented the client using angular-cli. Which is my favorite tool to scaffold Angular2 applications.
+
+Original Repository:
+https://github.com/sstorie/experiments/tree/master/angular2-signalr/client
+
 # Ng2Signalr
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
